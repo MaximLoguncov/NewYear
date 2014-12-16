@@ -29,10 +29,10 @@
 ## == INSTAll ==
 ```bash
 //скачиваемpush.co
-  git clone git@github.com:MaximLoguncov/.git 
+  git@github.com:MaximLoguncov/NewYear.git
 
 //переходим в 
-  cd                                      
+  cd NewYear                                    
 
 ```
 запускаем `index.html` в *брузере* 
